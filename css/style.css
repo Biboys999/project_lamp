@@ -1,0 +1,13 @@
+*{margin: O; padding: 0; background-color: black;}
+div{
+    display: flex;
+}
+.img1{
+   height: 500px;
+   width: 500px;
+}
+.img2{
+    height: 300px;
+    width: 300px;
+    padding: 7vw 2vw 0px 0px;
+}
